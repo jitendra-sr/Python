@@ -1,3 +1,4 @@
+print("Hello World")
 a=input('Enter Number: ')
 p=len(a)
 n=int(a)
